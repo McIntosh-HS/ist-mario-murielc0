@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("Today is January 16, 2024\n");
 	return 0;
 }
